@@ -11,7 +11,7 @@
 
 系统支持： Linux  
 硬件支持： 外接USB摄像头  
-环境支持： c++17、opencv5.6+、tinyxml2
+环境支持： c++17、opencv4.6+、tinyxml2
 
 
 快速上手：
